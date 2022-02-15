@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x17c2BeDc7E59d81c10aA8113145784E591ad77C3",
+  "SCAN_LINK": "https://etherscan.io/address/0x17c2bedc7e59d81c10aa8113145784e591ad77c3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Slum Punks V1",
+  "SYMBOL": "SPNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/slum-punks-v1",
+  "SHOW_BACKGROUND": true
+}
